@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 
 gambler=100
 wins=0
@@ -12,7 +12,7 @@ function results {
 echo -e "Welcome to Gambling!\nMoney in Gamblers Account: ₹$gambler\nStarting bets...."
 
 while :
-do	
+do
 	if [ $gambler -eq 200 ];then
 		echo -e "\n\nGambler Won!\nMoney in Gamblers Account: ₹$gambler"
 		results

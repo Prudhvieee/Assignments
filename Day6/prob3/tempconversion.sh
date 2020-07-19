@@ -11,11 +11,6 @@ function ftc {
 	local b=$(echo "scale=2; ($a-32) * 5/9 " | bc -l)
 	echo "$a° Farenheit is $b° Celsius"
 }
-
-#sample
-#ctf 10.897
-#ftc 51.614
-
 echo -e "1. Celcuis to Farenheit\n2. Farenheit to Celcius\n"
 read -p "Enter option number: " input
 
@@ -38,7 +33,5 @@ case $input in
 			echo "Error: Enter a valid input between 32°F to 212°F"
 		fi
 	;;
-	*)
-		echo "Error: Invalid Input"
-	;;
+	*)echo "Error: Invalid Input";;
 esac
