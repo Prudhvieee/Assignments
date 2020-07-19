@@ -1,5 +1,6 @@
 #!/bin/bash
-read -p "enter the number to generate table " n
+
+n=$1
 i=1
 while [ $i -le $n ]
 do
