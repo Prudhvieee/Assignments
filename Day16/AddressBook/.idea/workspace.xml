@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c8aae26-f982-4f5a-82a5-d9e4ed357f2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Day3/Assignment-1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day3/Assignment-1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/data-analysis/aggreatebasepay.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day3/data-analysis/aggreatebasepay.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/1.a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/2.b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/Annotation 2020-06-17 141946.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/LOGDATE.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/create1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/create2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/extstatuscode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/filescreated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/filescreated2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/foldercreated.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/listedfilesindir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/logextfiles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/modified process.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/movedfiles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/perchange.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/program move files.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/q3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/question1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/question2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/script.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/systemd git.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day3/img/systemdcount.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ecrkScY8NL1p8tL1R1HuzMhhY2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/jsoup-1.12.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="AddressBook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="AddressBook" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddressBook.main" />
+      <module name="AddressBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AddressBook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c8aae26-f982-4f5a-82a5-d9e4ed357f2b" name="Default Changelist" comment="" />
+      <created>1594631869255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594631869255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="958" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1595078380449">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="958" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1595078380449" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595066471336">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1595066471336" />
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1595077408855">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.864@0.0.1536.864" timestamp="1595077408855" />
+    <state x="564" y="327" key="DetectedRootsChooserDialog" timestamp="1594643400911">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="564" y="327" key="DetectedRootsChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1594643400911" />
+    <state x="549" y="173" key="FileChooserDialogImpl" timestamp="1595071375896">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="173" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595071375896" />
+    <state width="1493" height="353" key="GridCell.Tab.0.bottom" timestamp="1595090040910">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="353" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595090040910" />
+    <state width="1493" height="353" key="GridCell.Tab.0.center" timestamp="1595090040910">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="353" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595090040910" />
+    <state width="1493" height="353" key="GridCell.Tab.0.left" timestamp="1595090040910">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="353" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595090040910" />
+    <state width="1493" height="353" key="GridCell.Tab.0.right" timestamp="1595090040910">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="353" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595090040910" />
+    <state width="1493" height="188" key="GridCell.Tab.1.bottom" timestamp="1594911375101">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594911375101" />
+    <state width="1493" height="188" key="GridCell.Tab.1.center" timestamp="1594911375101">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1594911375101" />
+    <state width="1493" height="188" key="GridCell.Tab.1.left" timestamp="1594911375101">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1594911375101" />
+    <state width="1493" height="188" key="GridCell.Tab.1.right" timestamp="1594911375101">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="188" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1594911375101" />
+    <state x="1075" y="366" key="ReplaceDuplicatesPrompt" timestamp="1594912820316">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1075" y="366" key="ReplaceDuplicatesPrompt/0.0.1536.864@0.0.1536.864" timestamp="1594912820316" />
+    <state x="249" y="6" key="SettingsEditor" timestamp="1595084531553">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="6" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595084531553" />
+    <state x="990" y="182" key="extract.method.dialog" timestamp="1594912809489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="990" y="182" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1594912809489" />
+    <state x="478" y="31" width="579" height="801" key="find.popup" timestamp="1594736940920">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="478" y="31" width="579" height="801" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1594736940920" />
+    <state x="859" y="189" key="refactoring.ChangeSignatureDialog" timestamp="1595078461296">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="859" y="189" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1595078461296" />
+  </component>
+</project>

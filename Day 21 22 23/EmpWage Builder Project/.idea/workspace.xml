@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9e99d6c-fff3-4179-9d1e-1368e494f40e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eSHVj59FV5q5OESLjGz5TkQ5CJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="empwagebuilder" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EmployeeWageOops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="empwagebuilder.EmployeeWageOops" />
+      <module name="EmpWage Builder Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeWageOops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9e99d6c-fff3-4179-9d1e-1368e494f40e" name="Default Changelist" comment="" />
+      <created>1594308099262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594308099262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="92" key="#Project_Structure" timestamp="1594308114655">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="92" key="#Project_Structure/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594308114655" />
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594309119291">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594309119291" />
+    <state x="620" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1594309407919">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="620" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594309407919" />
+    <state x="349" y="88" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1594309403501">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="88" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594309403501" />
+    <state x="566" y="318" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594310774609">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="566" y="318" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594310774609" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1594347548631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594347548631" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1594396522499">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594396522499" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1594396522499">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594396522499" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1594396522499">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594396522499" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1594396522499">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594396522499" />
+    <state x="277" y="16" key="SettingsEditor" timestamp="1594392308425">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="16" key="SettingsEditor/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594392308425" />
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1594917090603">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1600.900@0.0.1536.864" timestamp="1594917090603" />
+  </component>
+</project>
